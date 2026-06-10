@@ -16,19 +16,18 @@ A real-time, role-based project management system featuring a dynamic Kanban boa
 
 ## 📦 Local Installation & Setup
 
-1. **Clone the Repository:**
+### 1. Clone the Repository
 ```bash
 git clone [https://github.com/nikunjranjangit/taskflow-mern-kanban.git](https://github.com/nikunjranjangit/taskflow-mern-kanban.git)
 cd taskflow-mern-kanban
-Backend Setup:
 
+2. Backend Setup
 Bash
 cd backend
 npm install
 # Create a .env file based on the keys outlined in .env.example
 npm start
-Frontend Setup:
-
+3. Frontend Setup
 Bash
 cd ../frontend
 npm install
